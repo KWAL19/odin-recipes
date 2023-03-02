@@ -1,0 +1,48 @@
+body {
+    background-color: #00FFFF;
+    color: #A219FF;
+}
+#title {
+    text-align: center;
+    font-size: 60px;
+}
+img {
+    height: auto;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#recipes {
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    list-style-type: none;
+}
+.recipes {
+    display: inline;
+    padding: 30px;
+}
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: #A219FF;
+}
+h1, h2, h3, h4 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.honey, .glazed {
+    font-weight: normal;
+    font-size: 20px;
+}
+ul {
+    text-align: center;
+    list-style: none;
+}
+li {
+    text-align: center;
+    list-style-position: inside;
+}
